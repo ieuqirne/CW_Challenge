@@ -1,0 +1,9 @@
+C:\Users\enrik\source\repos\coding-challenge\src\CardGame\bin\Debug\netstandard2.1\CardGame.deps.json
+C:\Users\enrik\source\repos\coding-challenge\src\CardGame\bin\Debug\netstandard2.1\CardGame.dll
+C:\Users\enrik\source\repos\coding-challenge\src\CardGame\bin\Debug\netstandard2.1\CardGame.pdb
+C:\Users\enrik\source\repos\coding-challenge\src\CardGame\obj\Debug\netstandard2.1\CardGame.AssemblyInfoInputs.cache
+C:\Users\enrik\source\repos\coding-challenge\src\CardGame\obj\Debug\netstandard2.1\CardGame.AssemblyInfo.cs
+C:\Users\enrik\source\repos\coding-challenge\src\CardGame\obj\Debug\netstandard2.1\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\enrik\source\repos\coding-challenge\src\CardGame\obj\Debug\netstandard2.1\CardGame.dll
+C:\Users\enrik\source\repos\coding-challenge\src\CardGame\obj\Debug\netstandard2.1\CardGame.pdb
+C:\Users\enrik\source\repos\coding-challenge\src\CardGame\obj\Debug\netstandard2.1\CardGame.csprojAssemblyReference.cache
