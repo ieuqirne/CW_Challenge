@@ -1,9 +1,9 @@
-C:\Users\enrik\Source\Repos\coding-challenge\src\ReversingString\bin\Debug\netstandard2.1\ReversingString.deps.json
-C:\Users\enrik\Source\Repos\coding-challenge\src\ReversingString\bin\Debug\netstandard2.1\ReversingString.dll
-C:\Users\enrik\Source\Repos\coding-challenge\src\ReversingString\bin\Debug\netstandard2.1\ReversingString.pdb
-C:\Users\enrik\Source\Repos\coding-challenge\src\ReversingString\obj\Debug\netstandard2.1\ReversingString.AssemblyInfoInputs.cache
-C:\Users\enrik\Source\Repos\coding-challenge\src\ReversingString\obj\Debug\netstandard2.1\ReversingString.AssemblyInfo.cs
-C:\Users\enrik\Source\Repos\coding-challenge\src\ReversingString\obj\Debug\netstandard2.1\ReversingString.csproj.CoreCompileInputs.cache
-C:\Users\enrik\Source\Repos\coding-challenge\src\ReversingString\obj\Debug\netstandard2.1\ReversingString.dll
-C:\Users\enrik\Source\Repos\coding-challenge\src\ReversingString\obj\Debug\netstandard2.1\ReversingString.pdb
+C:\Users\enrik\source\repos\coding-challenge\src\ReversingString\bin\Debug\netstandard2.1\ReversingString.deps.json
+C:\Users\enrik\source\repos\coding-challenge\src\ReversingString\bin\Debug\netstandard2.1\ReversingString.dll
+C:\Users\enrik\source\repos\coding-challenge\src\ReversingString\bin\Debug\netstandard2.1\ReversingString.pdb
 C:\Users\enrik\source\repos\coding-challenge\src\ReversingString\obj\Debug\netstandard2.1\ReversingString.csprojAssemblyReference.cache
+C:\Users\enrik\source\repos\coding-challenge\src\ReversingString\obj\Debug\netstandard2.1\ReversingString.AssemblyInfoInputs.cache
+C:\Users\enrik\source\repos\coding-challenge\src\ReversingString\obj\Debug\netstandard2.1\ReversingString.AssemblyInfo.cs
+C:\Users\enrik\source\repos\coding-challenge\src\ReversingString\obj\Debug\netstandard2.1\ReversingString.csproj.CoreCompileInputs.cache
+C:\Users\enrik\source\repos\coding-challenge\src\ReversingString\obj\Debug\netstandard2.1\ReversingString.dll
+C:\Users\enrik\source\repos\coding-challenge\src\ReversingString\obj\Debug\netstandard2.1\ReversingString.pdb

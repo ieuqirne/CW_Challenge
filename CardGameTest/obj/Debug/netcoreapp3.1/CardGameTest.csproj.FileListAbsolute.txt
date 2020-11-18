@@ -1,0 +1,16 @@
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\bin\Debug\netcoreapp3.1\CardGameTest.exe
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\bin\Debug\netcoreapp3.1\CardGameTest.dll
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\bin\Debug\netcoreapp3.1\CardGame.dll
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\bin\Debug\netcoreapp3.1\CardGame.pdb
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\obj\Debug\netcoreapp3.1\CardGameTest.csprojAssemblyReference.cache
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\obj\Debug\netcoreapp3.1\CardGameTest.AssemblyInfoInputs.cache
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\obj\Debug\netcoreapp3.1\CardGameTest.AssemblyInfo.cs
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\obj\Debug\netcoreapp3.1\CardGameTest.csproj.CoreCompileInputs.cache
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\obj\Debug\netcoreapp3.1\CardGameTest.dll
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\obj\Debug\netcoreapp3.1\CardGameTest.pdb
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\bin\Debug\netcoreapp3.1\CardGameTest.deps.json
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\bin\Debug\netcoreapp3.1\CardGameTest.runtimeconfig.json
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\bin\Debug\netcoreapp3.1\CardGameTest.runtimeconfig.dev.json
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\bin\Debug\netcoreapp3.1\CardGameTest.pdb
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\obj\Debug\netcoreapp3.1\CardGameTest.csproj.CopyComplete
+C:\Users\enrik\source\repos\coding-challenge\CardGameTest\obj\Debug\netcoreapp3.1\CardGameTest.genruntimeconfig.cache

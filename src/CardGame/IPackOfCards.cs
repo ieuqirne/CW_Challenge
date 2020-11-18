@@ -7,5 +7,6 @@ namespace CodingChallenge.CardGame
         void Shuffle();
 
         ICard TakeCardFromTopOfPack();
+        void PrintAllCards();
     }
 }
